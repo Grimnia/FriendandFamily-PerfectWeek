@@ -7,5 +7,5 @@ This app was made for people who wants to know the city they are in a lot better
 
 To have the project you just need to clone the repo in your computer and npm install
 
-I made this app with rsanmartin1991 and Grimnia
+I made this app with adrimonasterios, rsanmartin1991 and Grimnia
 
